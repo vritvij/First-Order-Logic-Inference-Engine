@@ -1,0 +1,2 @@
+# First-Order-Logic-Inference-Engine
+A C++ program that can tell statements to and ask a query from a first order logic based knowledge base. Inserting statements into the knowledge base required converting them to CNF form before transforming them to the knowledge base's internal data structure which is optimized for their retrieval and processing. The resolution inference algorithm is used when the knowledge base is asked a query.
