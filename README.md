@@ -5,7 +5,7 @@ A C++ program that can tell statements to and ask a query from a first order log
 ```
 NQ: (int) The number of queries that you want to ask the knowledge base
 Queries: (string[NQ]) The queries
-NSL (int) The number of first order logic statements in the knowledge base
+NS: (int) The number of first order logic statements in the knowledge base
 Statements: (string[NS]) The first order logic statements
 ```
 
